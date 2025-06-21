@@ -16,28 +16,27 @@ const SkillsSection = () => {
     
     // Frameworks
     fastapi: { name: 'FastAPI', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' },
-    flask: { name: 'Flask', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' },
+    flask: { name: 'Flask', level: 'Expert', color: 'text-orange-400', icon: 'https://th.bing.com/th/id/OIP.19Aio6uoXRdKgfrk2PR9qgHaHw?rs=1&pid=ImgDetMain' },
     django: { name: 'Django', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' },
     springboot: { name: 'Spring Boot', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' },
-    express: { name: 'Express.js', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' },
     nodejs: { name: 'Node.js', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
     react: { name: 'React', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
     html5: { name: 'HTML5', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
     bootstrap: { name: 'Bootstrap', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' },
-    tailwind: { name: 'Tailwind CSS', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' },
+    tailwind: { name: 'Tailwind CSS', level: 'Expert', color: 'text-orange-400', icon: 'https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' },
     
     // Tools & Databases
     mongodb: { name: 'MongoDB', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' },
     mysql: { name: 'MySQL', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' },
-    postgresql: { name: 'PostgreSQL', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' },
-    git: { name: 'Git', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
+    postgresql: { name: 'Salesforce', level: 'Expert', color: 'text-orange-400', icon: 'https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo-1.png' },
+    git: { name: 'GitHub', level: 'Expert', color: 'text-orange-400', icon: 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' },
     firebase: { name: 'Firebase', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' },
     docker: { name: 'Docker', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' },
     vscode: { name: 'VS Code', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' },
     linux: { name: 'Linux', level: 'Expert', color: 'text-orange-400', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' },
     kali: { name: 'Kali Linux', level: 'Expert', color: 'text-orange-400', icon: 'https://www.kali.org/images/kali-logo.svg' },
     wireshark: { name: 'Wireshark', level: 'Intermediate', color: 'text-yellow-400', icon: 'https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png' },
-    ollama: { name: 'Ollama', level: 'Expert', color: 'text-orange-400', icon: 'https://ollama.ai/public/ollama.png' }
+    ollama: { name: 'Ollama', level: 'Expert', color: 'text-orange-400', icon: 'https://registry.npmmirror.com/@lobehub/icons-static-png/1.47.0/files/dark/ollama.png' }
   };
 
   // Row 1: Languages
